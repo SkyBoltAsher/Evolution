@@ -2,3 +2,5 @@ This is an old project I did for my last year of high school, so it definitely d
 and you can spawn starting organisms using the "Populate button". Then start the game by unpausing at the top. You can change various settings in the game, and see how
 the organisms reproduce and evolve over time by looking at the average stats of the population in the bottom right. It's just a game you watch as it goes, can be fun and
 interesting. Changing the environment changes which traits are selected for, and therefore which organisms can reproduce. Organisms of similar colour are descendants.
+
+Doesn't work on some smaller resolutions.
